@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "COMMON_ENTITIES/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/COMMON_ENTITIES.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/COMMON_ENTITIES.dll": {}
+        }
+      },
+      "STUDENT_ENTITY/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/STUDENT_ENTITY.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/STUDENT_ENTITY.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "COMMON_ENTITIES/1.0.0": {
+      "type": "project",
+      "path": "../COMMON_ENTITIES/COMMON_ENTITIES.csproj",
+      "msbuildProject": "../COMMON_ENTITIES/COMMON_ENTITIES.csproj"
+    },
+    "STUDENT_ENTITY/1.0.0": {
+      "type": "project",
+      "path": "../STUDENT_ENTITY/STUDENT_ENTITY.csproj",
+      "msbuildProject": "../STUDENT_ENTITY/STUDENT_ENTITY.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "COMMON_ENTITIES >= 1.0.0",
+      "STUDENT_ENTITY >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Dinesh\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Dinesh\\source\\repos\\StudentTestApplication\\STUDENT_INTERFACE\\STUDENT_INTERFACE.csproj",
+      "projectName": "STUDENT_INTERFACE",
+      "projectPath": "C:\\Users\\Dinesh\\source\\repos\\StudentTestApplication\\STUDENT_INTERFACE\\STUDENT_INTERFACE.csproj",
+      "packagesPath": "C:\\Users\\Dinesh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Dinesh\\source\\repos\\StudentTestApplication\\STUDENT_INTERFACE\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Dinesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\Dinesh\\source\\repos\\StudentTestApplication\\COMMON_ENTITIES\\COMMON_ENTITIES.csproj": {
+              "projectPath": "C:\\Users\\Dinesh\\source\\repos\\StudentTestApplication\\COMMON_ENTITIES\\COMMON_ENTITIES.csproj"
+            },
+            "C:\\Users\\Dinesh\\source\\repos\\StudentTestApplication\\STUDENT_ENTITY\\STUDENT_ENTITY.csproj": {
+              "projectPath": "C:\\Users\\Dinesh\\source\\repos\\StudentTestApplication\\STUDENT_ENTITY\\STUDENT_ENTITY.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\Dinesh\source\repos\StudentTestApplication\STUDENT_REPOSITOTY\bin\Debug\netcoreapp3.1\STUDENT_REPOSITOTY.deps.json
+C:\Users\Dinesh\source\repos\StudentTestApplication\STUDENT_REPOSITOTY\bin\Debug\netcoreapp3.1\STUDENT_REPOSITOTY.dll
+C:\Users\Dinesh\source\repos\StudentTestApplication\STUDENT_REPOSITOTY\bin\Debug\netcoreapp3.1\STUDENT_REPOSITOTY.pdb
+C:\Users\Dinesh\source\repos\StudentTestApplication\STUDENT_REPOSITOTY\bin\Debug\netcoreapp3.1\COMMON_ENTITIES.dll
+C:\Users\Dinesh\source\repos\StudentTestApplication\STUDENT_REPOSITOTY\bin\Debug\netcoreapp3.1\STUDENT_ENTITY.dll
+C:\Users\Dinesh\source\repos\StudentTestApplication\STUDENT_REPOSITOTY\bin\Debug\netcoreapp3.1\STUDENT_INTERFACE.dll
+C:\Users\Dinesh\source\repos\StudentTestApplication\STUDENT_REPOSITOTY\bin\Debug\netcoreapp3.1\STUDENT_INTERFACE.pdb
+C:\Users\Dinesh\source\repos\StudentTestApplication\STUDENT_REPOSITOTY\bin\Debug\netcoreapp3.1\COMMON_ENTITIES.pdb
+C:\Users\Dinesh\source\repos\StudentTestApplication\STUDENT_REPOSITOTY\bin\Debug\netcoreapp3.1\STUDENT_ENTITY.pdb
+C:\Users\Dinesh\source\repos\StudentTestApplication\STUDENT_REPOSITOTY\obj\Debug\netcoreapp3.1\STUDENT_REPOSITOTY.csproj.AssemblyReference.cache
+C:\Users\Dinesh\source\repos\StudentTestApplication\STUDENT_REPOSITOTY\obj\Debug\netcoreapp3.1\STUDENT_REPOSITOTY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dinesh\source\repos\StudentTestApplication\STUDENT_REPOSITOTY\obj\Debug\netcoreapp3.1\STUDENT_REPOSITOTY.AssemblyInfoInputs.cache
+C:\Users\Dinesh\source\repos\StudentTestApplication\STUDENT_REPOSITOTY\obj\Debug\netcoreapp3.1\STUDENT_REPOSITOTY.AssemblyInfo.cs
+C:\Users\Dinesh\source\repos\StudentTestApplication\STUDENT_REPOSITOTY\obj\Debug\netcoreapp3.1\STUDENT_REPOSITOTY.csproj.CoreCompileInputs.cache
+C:\Users\Dinesh\source\repos\StudentTestApplication\STUDENT_REPOSITOTY\obj\Debug\netcoreapp3.1\STUDENT_REPOSITOTY.csproj.CopyComplete
+C:\Users\Dinesh\source\repos\StudentTestApplication\STUDENT_REPOSITOTY\obj\Debug\netcoreapp3.1\STUDENT_REPOSITOTY.dll
+C:\Users\Dinesh\source\repos\StudentTestApplication\STUDENT_REPOSITOTY\obj\Debug\netcoreapp3.1\STUDENT_REPOSITOTY.pdb

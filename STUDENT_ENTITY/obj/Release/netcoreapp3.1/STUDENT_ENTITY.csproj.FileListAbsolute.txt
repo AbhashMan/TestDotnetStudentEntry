@@ -1,0 +1,10 @@
+C:\Users\Dinesh\source\repos\StudentTestApplication\STUDENT_ENTITY\bin\Release\netcoreapp3.1\STUDENT_ENTITY.deps.json
+C:\Users\Dinesh\source\repos\StudentTestApplication\STUDENT_ENTITY\bin\Release\netcoreapp3.1\STUDENT_ENTITY.dll
+C:\Users\Dinesh\source\repos\StudentTestApplication\STUDENT_ENTITY\bin\Release\netcoreapp3.1\STUDENT_ENTITY.pdb
+C:\Users\Dinesh\source\repos\StudentTestApplication\STUDENT_ENTITY\obj\Release\netcoreapp3.1\STUDENT_ENTITY.csproj.AssemblyReference.cache
+C:\Users\Dinesh\source\repos\StudentTestApplication\STUDENT_ENTITY\obj\Release\netcoreapp3.1\STUDENT_ENTITY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dinesh\source\repos\StudentTestApplication\STUDENT_ENTITY\obj\Release\netcoreapp3.1\STUDENT_ENTITY.AssemblyInfoInputs.cache
+C:\Users\Dinesh\source\repos\StudentTestApplication\STUDENT_ENTITY\obj\Release\netcoreapp3.1\STUDENT_ENTITY.AssemblyInfo.cs
+C:\Users\Dinesh\source\repos\StudentTestApplication\STUDENT_ENTITY\obj\Release\netcoreapp3.1\STUDENT_ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\Dinesh\source\repos\StudentTestApplication\STUDENT_ENTITY\obj\Release\netcoreapp3.1\STUDENT_ENTITY.dll
+C:\Users\Dinesh\source\repos\StudentTestApplication\STUDENT_ENTITY\obj\Release\netcoreapp3.1\STUDENT_ENTITY.pdb

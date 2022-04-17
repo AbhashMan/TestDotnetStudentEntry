@@ -1,0 +1,10 @@
+C:\Users\Dinesh\source\repos\StudentTestApplication\COMMON_ENTITIES\bin\Debug\netcoreapp3.1\COMMON_ENTITIES.deps.json
+C:\Users\Dinesh\source\repos\StudentTestApplication\COMMON_ENTITIES\bin\Debug\netcoreapp3.1\COMMON_ENTITIES.dll
+C:\Users\Dinesh\source\repos\StudentTestApplication\COMMON_ENTITIES\bin\Debug\netcoreapp3.1\COMMON_ENTITIES.pdb
+C:\Users\Dinesh\source\repos\StudentTestApplication\COMMON_ENTITIES\obj\Debug\netcoreapp3.1\COMMON_ENTITIES.csproj.AssemblyReference.cache
+C:\Users\Dinesh\source\repos\StudentTestApplication\COMMON_ENTITIES\obj\Debug\netcoreapp3.1\COMMON_ENTITIES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dinesh\source\repos\StudentTestApplication\COMMON_ENTITIES\obj\Debug\netcoreapp3.1\COMMON_ENTITIES.AssemblyInfoInputs.cache
+C:\Users\Dinesh\source\repos\StudentTestApplication\COMMON_ENTITIES\obj\Debug\netcoreapp3.1\COMMON_ENTITIES.AssemblyInfo.cs
+C:\Users\Dinesh\source\repos\StudentTestApplication\COMMON_ENTITIES\obj\Debug\netcoreapp3.1\COMMON_ENTITIES.csproj.CoreCompileInputs.cache
+C:\Users\Dinesh\source\repos\StudentTestApplication\COMMON_ENTITIES\obj\Debug\netcoreapp3.1\COMMON_ENTITIES.dll
+C:\Users\Dinesh\source\repos\StudentTestApplication\COMMON_ENTITIES\obj\Debug\netcoreapp3.1\COMMON_ENTITIES.pdb

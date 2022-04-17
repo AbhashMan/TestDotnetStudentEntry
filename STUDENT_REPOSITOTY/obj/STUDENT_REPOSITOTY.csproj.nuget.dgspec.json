@@ -1,0 +1,249 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Dinesh\\source\\repos\\StudentTestApplication\\STUDENT_REPOSITOTY\\STUDENT_REPOSITOTY.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Dinesh\\source\\repos\\StudentTestApplication\\COMMON_ENTITIES\\COMMON_ENTITIES.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dinesh\\source\\repos\\StudentTestApplication\\COMMON_ENTITIES\\COMMON_ENTITIES.csproj",
+        "projectName": "COMMON_ENTITIES",
+        "projectPath": "C:\\Users\\Dinesh\\source\\repos\\StudentTestApplication\\COMMON_ENTITIES\\COMMON_ENTITIES.csproj",
+        "packagesPath": "C:\\Users\\Dinesh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dinesh\\source\\repos\\StudentTestApplication\\COMMON_ENTITIES\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dinesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Dinesh\\source\\repos\\StudentTestApplication\\STUDENT_ENTITY\\STUDENT_ENTITY.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dinesh\\source\\repos\\StudentTestApplication\\STUDENT_ENTITY\\STUDENT_ENTITY.csproj",
+        "projectName": "STUDENT_ENTITY",
+        "projectPath": "C:\\Users\\Dinesh\\source\\repos\\StudentTestApplication\\STUDENT_ENTITY\\STUDENT_ENTITY.csproj",
+        "packagesPath": "C:\\Users\\Dinesh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dinesh\\source\\repos\\StudentTestApplication\\STUDENT_ENTITY\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dinesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Dinesh\\source\\repos\\StudentTestApplication\\STUDENT_INTERFACE\\STUDENT_INTERFACE.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dinesh\\source\\repos\\StudentTestApplication\\STUDENT_INTERFACE\\STUDENT_INTERFACE.csproj",
+        "projectName": "STUDENT_INTERFACE",
+        "projectPath": "C:\\Users\\Dinesh\\source\\repos\\StudentTestApplication\\STUDENT_INTERFACE\\STUDENT_INTERFACE.csproj",
+        "packagesPath": "C:\\Users\\Dinesh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dinesh\\source\\repos\\StudentTestApplication\\STUDENT_INTERFACE\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dinesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Dinesh\\source\\repos\\StudentTestApplication\\COMMON_ENTITIES\\COMMON_ENTITIES.csproj": {
+                "projectPath": "C:\\Users\\Dinesh\\source\\repos\\StudentTestApplication\\COMMON_ENTITIES\\COMMON_ENTITIES.csproj"
+              },
+              "C:\\Users\\Dinesh\\source\\repos\\StudentTestApplication\\STUDENT_ENTITY\\STUDENT_ENTITY.csproj": {
+                "projectPath": "C:\\Users\\Dinesh\\source\\repos\\StudentTestApplication\\STUDENT_ENTITY\\STUDENT_ENTITY.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Dinesh\\source\\repos\\StudentTestApplication\\STUDENT_REPOSITOTY\\STUDENT_REPOSITOTY.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dinesh\\source\\repos\\StudentTestApplication\\STUDENT_REPOSITOTY\\STUDENT_REPOSITOTY.csproj",
+        "projectName": "STUDENT_REPOSITOTY",
+        "projectPath": "C:\\Users\\Dinesh\\source\\repos\\StudentTestApplication\\STUDENT_REPOSITOTY\\STUDENT_REPOSITOTY.csproj",
+        "packagesPath": "C:\\Users\\Dinesh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dinesh\\source\\repos\\StudentTestApplication\\STUDENT_REPOSITOTY\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dinesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Dinesh\\source\\repos\\StudentTestApplication\\STUDENT_INTERFACE\\STUDENT_INTERFACE.csproj": {
+                "projectPath": "C:\\Users\\Dinesh\\source\\repos\\StudentTestApplication\\STUDENT_INTERFACE\\STUDENT_INTERFACE.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[3.1.22, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

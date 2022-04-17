@@ -1,0 +1,15 @@
+C:\Users\Dinesh\source\repos\StudentTestApplication\STUDENT_INTERFACE\bin\Debug\netcoreapp3.1\STUDENT_INTERFACE.deps.json
+C:\Users\Dinesh\source\repos\StudentTestApplication\STUDENT_INTERFACE\bin\Debug\netcoreapp3.1\STUDENT_INTERFACE.dll
+C:\Users\Dinesh\source\repos\StudentTestApplication\STUDENT_INTERFACE\bin\Debug\netcoreapp3.1\STUDENT_INTERFACE.pdb
+C:\Users\Dinesh\source\repos\StudentTestApplication\STUDENT_INTERFACE\bin\Debug\netcoreapp3.1\COMMON_ENTITIES.dll
+C:\Users\Dinesh\source\repos\StudentTestApplication\STUDENT_INTERFACE\bin\Debug\netcoreapp3.1\STUDENT_ENTITY.dll
+C:\Users\Dinesh\source\repos\StudentTestApplication\STUDENT_INTERFACE\bin\Debug\netcoreapp3.1\COMMON_ENTITIES.pdb
+C:\Users\Dinesh\source\repos\StudentTestApplication\STUDENT_INTERFACE\bin\Debug\netcoreapp3.1\STUDENT_ENTITY.pdb
+C:\Users\Dinesh\source\repos\StudentTestApplication\STUDENT_INTERFACE\obj\Debug\netcoreapp3.1\STUDENT_INTERFACE.csproj.AssemblyReference.cache
+C:\Users\Dinesh\source\repos\StudentTestApplication\STUDENT_INTERFACE\obj\Debug\netcoreapp3.1\STUDENT_INTERFACE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dinesh\source\repos\StudentTestApplication\STUDENT_INTERFACE\obj\Debug\netcoreapp3.1\STUDENT_INTERFACE.AssemblyInfoInputs.cache
+C:\Users\Dinesh\source\repos\StudentTestApplication\STUDENT_INTERFACE\obj\Debug\netcoreapp3.1\STUDENT_INTERFACE.AssemblyInfo.cs
+C:\Users\Dinesh\source\repos\StudentTestApplication\STUDENT_INTERFACE\obj\Debug\netcoreapp3.1\STUDENT_INTERFACE.csproj.CoreCompileInputs.cache
+C:\Users\Dinesh\source\repos\StudentTestApplication\STUDENT_INTERFACE\obj\Debug\netcoreapp3.1\STUDENT_INTERFACE.csproj.CopyComplete
+C:\Users\Dinesh\source\repos\StudentTestApplication\STUDENT_INTERFACE\obj\Debug\netcoreapp3.1\STUDENT_INTERFACE.dll
+C:\Users\Dinesh\source\repos\StudentTestApplication\STUDENT_INTERFACE\obj\Debug\netcoreapp3.1\STUDENT_INTERFACE.pdb

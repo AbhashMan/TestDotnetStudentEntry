@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "STUDENT_INTERFACE/1.0.0": {
+        "dependencies": {
+          "COMMON_ENTITIES": "1.0.0",
+          "STUDENT_ENTITY": "1.0.0"
+        },
+        "runtime": {
+          "STUDENT_INTERFACE.dll": {}
+        }
+      },
+      "COMMON_ENTITIES/1.0.0": {
+        "runtime": {
+          "COMMON_ENTITIES.dll": {}
+        }
+      },
+      "STUDENT_ENTITY/1.0.0": {
+        "runtime": {
+          "STUDENT_ENTITY.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "STUDENT_INTERFACE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "COMMON_ENTITIES/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "STUDENT_ENTITY/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

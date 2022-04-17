@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Areas\Student\Data\" />
+    <Folder Include="Areas\Student\Models\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="3.1.22" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\COMMON_ENTITIES\COMMON_ENTITIES.csproj" />
+    <ProjectReference Include="..\STUDENT_INTERFACE\STUDENT_INTERFACE.csproj" />
+    <ProjectReference Include="..\STUDENT_REPOSITOTY\STUDENT_REPOSITOTY.csproj" />
+  </ItemGroup>
+
+</Project>
