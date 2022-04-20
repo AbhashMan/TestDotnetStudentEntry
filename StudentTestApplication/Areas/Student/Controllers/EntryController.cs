@@ -22,5 +22,21 @@ namespace StudentTestApplication.Areas.Student.Controllers
             return _student.AddStudent(studentsssss);
         }
 
+        [HttpPost]
+        public JsonResponse GetAllStudents(int? ID)
+        {
+            return _student.GetAllStudents(ID);
+        }
+
+        [HttpPost]
+        public JsonResponse UpdateStudent(ATTStudent updatedStudent)
+        {
+            return _student.UpdateStudent(updatedStudent);
+        }
+        [HttpPost]
+        public JsonResponse DeleteStudent(int ID)
+        {
+            return _student.DeleteStudent(ID);
+        }
     }
 }
