@@ -4,6 +4,7 @@ using Microsoft.Extensions.Options;
 using STUDENT_ENTITY;
 using STUDENT_INTERFACE;
 using System;
+using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
 using System.Linq;
@@ -96,17 +97,34 @@ namespace STUDENT_REPOSITOTY
                     connection.Open();
                     DynamicParameters parameters = new DynamicParameters();
                     parameters.Add("@ID", ID);
-                    ATTStudent student = connection.Query<ATTStudent>(sql:"GET_ALL_STUDENTS",param:parameters,transaction:null,commandType: CommandType.StoredProcedure).FirstOrDefault();
-                    if(student != null)
+                    if(ID == null)
                     {
-                        jsonResponse.IsSuccess = true;
-                        jsonResponse.Message = "User Found";
-                        jsonResponse.ResponseData = student;
+                        List<ATTStudent> students = connection.Query<ATTStudent>(sql: "GET_ALL_STUDENTS", param: parameters, transaction: null, commandType: CommandType.StoredProcedure).ToList();
+                        if (students.Count > 0)
+                        {
+                            jsonResponse.IsSuccess = true;
+                            jsonResponse.ResponseData = students;
+                        }
+                        else
+                        {
+                            jsonResponse.Message = "No Records Found";
+                        }
                     }
                     else
                     {
-                        jsonResponse.Message = "No Records Found";
-                    }   
+                        ATTStudent student = connection.Query<ATTStudent>(sql: "GET_ALL_STUDENTS", param: parameters, transaction: null, commandType: CommandType.StoredProcedure).FirstOrDefault();
+                        if (student != null)
+                        {
+                            jsonResponse.IsSuccess = true;
+                            jsonResponse.Message = "User Found";
+                            jsonResponse.ResponseData = student;
+                        }
+                        else
+                        {
+                            jsonResponse.Message = "No Records Found";
+                        }
+                    }
+                    
                 }
                 catch (Exception ex)
                 {
